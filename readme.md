@@ -1,1 +1,5 @@
+#Railtime
 
+In an effort to improve the customer experience of the LRT line 1, the proponents developed a Progressive Web App that patrons can use to improve their experience. The medium is chosen over a traditional app because it suits the idea that the modern world moves faster as the years pass. Progressive Web Apps or PWA can easily be accessed just like a website that can be opened with a link but offers close to the native feel and offline capabilities of native apps that can be installed through the Play Store or App Store. Since Progressive Web Apps are just like websites but are supercharged with modern and standardized APIs and tools, they can run across multiple platforms requiring tremendously lesser cost in development and deployment, not to mention the faster development to production time frame that can easily be achieved because it would only require a single team instead of having multiple teams that would develop for different platforms.
+
+Open the webapp -> [railtime-app.herokuapp.com](https://railtime-app.herokuapp.com)
