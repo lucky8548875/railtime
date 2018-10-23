@@ -53,7 +53,7 @@ export default {
                 <span class="disk light-gray" v-bind:class="{ accent: translate === -200}"></span>
             </span>
             <button class="transparent onboarding-btn padding-large bold" @click="translate-=100" v-show="translate > -200">Next</button>
-            <button class="transparent onboarding-btn padding-large bold" v-show="translate === -200"" @click.prevent="navigatepath('login')">Get Started</button>
+            <button class="transparent onboarding-btn padding-large bold" v-show="translate === -200"" @click.prevent="navigatepath('home')">Get Started</button>
         </div>
     </div>
 
